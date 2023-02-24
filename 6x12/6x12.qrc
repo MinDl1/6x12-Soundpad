@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/auughhh.mp3</file>
+        <file>content/deja-vu.mp3</file>
+        <file>content/galaxy-brain-meme.mp3</file>
+        <file>content/meme-de-creditos-finales.mp3</file>
+        <file>content/ne-nado-diadia.mp3</file>
+        <file>content/privet-pupsik.mp3</file>
+        <file>content/6x12 label.png</file>
+    </qresource>
+</RCC>
